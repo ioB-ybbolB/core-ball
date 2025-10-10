@@ -43,7 +43,7 @@ The core spins faster at higher levels — stay alert!
 <hr>
 
 ### 📂 Repository  
-👉 [Click Git repo](https://monkey-type-org.github.io/monkeytype-test/)  
+👉 [Click Git repo](https://github.com/monkey-type-org/coreball)  
 <hr>
 
 ### 💡 Future Enhancements  
