@@ -2,6 +2,7 @@
 
 Core Ball is an addicting online arcade game that will test your timing, patience, and precision. Inspired by the classic console game from the 2015s, Core Ball brings a simple yet incredibly challenging gameplay experience right to your browser. Your main goal is to throw small balls into a rotating core without letting them collide with any other balls already attached. It sounds easy at first — but as the levels progress, the rotation speed, direction, and patterns become trickier, demanding sharp focus and perfect timing.  
 The game’s design is minimal yet captivating, making it easy to play but hard to master. Each throw requires strategy, rhythm, and accuracy to progress further. The best part? Core Ball features an impressive total of 216 levels, each uniquely designed to push your skills to the limit. As you move through the stages, you’ll face faster spins, tighter gaps, and unexpected twists that keep the excitement alive.   
+<hr>
 
 ### 🚀 Features  
 
